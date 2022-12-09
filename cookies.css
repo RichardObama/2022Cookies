@@ -13,7 +13,7 @@ body {
 .btn {
   background-color: DodgerBlue;
   border: none;
-  color: wheat;
+  color: white;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -27,7 +27,19 @@ table{
   background-color: #5585b5;
 }
 
+
+impressum {
+  font-size: small;
+  color: blue;
+}
+.test{
+  display: flex;
+
+}
 #fb {
-  float: right;
-  margin: 0 0 0 15px;
+  padding-left: 40px;
+}
+
+body{
+  background-color: rgb(255, 240, 218);
 }
